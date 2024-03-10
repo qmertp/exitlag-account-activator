@@ -26,7 +26,7 @@ print("This script is created for educational purposes, I am not responsible for
 print("")
 email = input("Insert the account's email: ")
 # it is a password hash, it means 'gatolouco'. do not change it, otherwise it won't work :)
-password = "38cf4d8080c1a66172c4a91e76b822140f029e10a00e3615be6eb8a0f3331ffd"  # some_hash('gatolouco'+unknow_key)
+password = "38cf4d8080c1a66172c4a91e76b822140f029e10a00e3615be6eb8a0f3331ffd"  # some_hash('19101978Keni@'+unknow_key)
 
 
 # the endpoint to connect with the websocket
